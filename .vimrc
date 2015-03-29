@@ -117,7 +117,6 @@ autocmd BufNewFile,BufRead *.md set filetype=markdown
     " 将选中的文本复制至系统剪贴板
     vnoremap <Leader>y "+y
     nnoremap <Leader>; :edit ~/.vimrc<CR>
-    noremap <Leader>k <Leader>K
 " }
 
 " airline {
